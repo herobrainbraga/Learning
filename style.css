@@ -62,6 +62,20 @@ body{
     list-style: none;
     line-height: 50px;
 }
+.sidebar ul li input{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+    background: #1d1b31;
+    padding-left: 50px;
+    font-size: 18px;
+    color: #fff;
+}
 .sidebar ul li a{
     color: #fff;
     display: flex;
